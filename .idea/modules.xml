@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyWorkspace.iml" filepath="$PROJECT_DIR$/MyWorkspace.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basicactivity/basicactivity.iml" filepath="$PROJECT_DIR$/basicactivity/basicactivity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/emptyActivity/emptyActivity.iml" filepath="$PROJECT_DIR$/emptyActivity/emptyActivity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loginactivity/loginactivity.iml" filepath="$PROJECT_DIR$/loginactivity/loginactivity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mapsactivity/mapsactivity.iml" filepath="$PROJECT_DIR$/mapsactivity/mapsactivity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/navdraweractivity/navdraweractivity.iml" filepath="$PROJECT_DIR$/navdraweractivity/navdraweractivity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scrollingactivity/scrollingactivity.iml" filepath="$PROJECT_DIR$/scrollingactivity/scrollingactivity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/settingactivity/settingactivity.iml" filepath="$PROJECT_DIR$/settingactivity/settingactivity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tabbedactivity/tabbedactivity.iml" filepath="$PROJECT_DIR$/tabbedactivity/tabbedactivity.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,1 @@
+include ':emptyActivity', ':tabbedactivity', ':settingactivity', ':scrollingactivity', ':scrollingactivity', ':loginactivity', ':navdraweractivity', ':mapsactivity', ':basicactivity'
